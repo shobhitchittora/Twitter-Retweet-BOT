@@ -132,8 +132,7 @@ try:
 		#twitter.tweet("I'm posting a tweet,yet again!")
 		myStreamListner = MyStreamListner()
 		myStream = tweepy.Stream(auth=twitter.api.auth, listener=myStreamListner)
-
-		#myStream.filter(track=['#CSGOgiveaway','#CSGOSkins','#CSGOgiveaway #CSGO','#csgo #CSGOgiveaway'])
+		
 		myStream.filter(track=['#giveaway','#Giveaway'])
 except KeyboardInterrupt:
 	sys.exit()
