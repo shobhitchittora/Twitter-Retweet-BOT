@@ -13,7 +13,9 @@ Python 2.7
 pip
 
 #Installation
-pip install termcolor json
+pip install tweepy 
+pip install termcolor 
+pip install json
 
 #Run
 python TwitterRetweetBot.py
