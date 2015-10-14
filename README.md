@@ -16,4 +16,4 @@ pip
 pip install termcolor json
 
 #Run
-python 
+python TwitterRetweetBot.py
