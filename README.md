@@ -13,8 +13,8 @@ Python 2.7</br>
 pip
 
 #Installation
-pip install tweepy 
-pip install termcolor 
+pip install tweepy</br> 
+pip install termcolor</br> 
 pip install json
 
 #Run
