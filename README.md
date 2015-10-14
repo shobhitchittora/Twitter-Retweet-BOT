@@ -9,7 +9,7 @@ This bot is written purely for educational purposes. I hold no liability for wha
 You can fork this repository on GitHub as long as it links back to this original repository. Do not sell this script as I would like the code to remain free.
 
 #Prerequisites
-Python 2.7
+Python 2.7</br>
 pip
 
 #Installation
